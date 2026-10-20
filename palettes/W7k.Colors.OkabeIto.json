@@ -1,0 +1,76 @@
+{
+  "bookName": "W7k.Colors.OkabeIto",
+  "prefix": "OI",
+  "description": "The 8-color Okabe-Ito palette (Okabe & Ito, 2008), designed to stay distinguishable for people with the common forms of color vision deficiency.",
+  "pages": [
+    {
+      "title": "Color-blind safe"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Orange",
+      "rgb": [
+        230,
+        159,
+        0
+      ]
+    },
+    {
+      "name": "Sky Blue",
+      "rgb": [
+        86,
+        180,
+        233
+      ]
+    },
+    {
+      "name": "Bluish Green",
+      "rgb": [
+        0,
+        158,
+        115
+      ]
+    },
+    {
+      "name": "Yellow",
+      "rgb": [
+        240,
+        228,
+        66
+      ]
+    },
+    {
+      "name": "Blue",
+      "rgb": [
+        0,
+        114,
+        178
+      ]
+    },
+    {
+      "name": "Vermillion",
+      "rgb": [
+        213,
+        94,
+        0
+      ]
+    },
+    {
+      "name": "Reddish Purple",
+      "rgb": [
+        204,
+        121,
+        167
+      ]
+    },
+    {
+      "name": "Black",
+      "rgb": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

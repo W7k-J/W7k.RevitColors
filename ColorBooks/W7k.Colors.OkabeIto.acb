@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>W7k.Colors.OkabeIto</bookName>
+  <majorVersion>1</majorVersion>
+  <minorVersion>0</minorVersion>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>0</red>
+        <green>114</green>
+        <blue>178</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>OI01 Orange</colorName>
+      <RGB8>
+        <red>230</red>
+        <green>159</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI02 Sky Blue</colorName>
+      <RGB8>
+        <red>86</red>
+        <green>180</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI03 Bluish Green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>158</green>
+        <blue>115</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI04 Yellow</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>228</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI05 Blue</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>114</green>
+        <blue>178</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI06 Vermillion</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>94</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI07 Reddish Purple</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>121</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>OI08 Black</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+</colorBook>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>W7k.Colors.ContrastingButUgly</bookName>
+  <majorVersion>1</majorVersion>
+  <minorVersion>0</minorVersion>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>245</red>
+        <green>231</green>
+        <blue>23</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>CU01 Crimson</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>38</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU02 Blood Red</colorName>
+      <RGB8>
+        <red>160</red>
+        <green>3</green>
+        <blue>15</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU03 Maroon</colorName>
+      <RGB8>
+        <red>70</red>
+        <green>1</green>
+        <blue>3</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU04 Mustard</colorName>
+      <RGB8>
+        <red>181</red>
+        <green>122</green>
+        <blue>8</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU05 Khaki Gray</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>191</green>
+        <blue>163</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU06 Lemon</colorName>
+      <RGB8>
+        <red>245</red>
+        <green>231</green>
+        <blue>23</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU07 Grass</colorName>
+      <RGB8>
+        <red>28</red>
+        <green>127</green>
+        <blue>2</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU08 Forest</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>69</green>
+        <blue>8</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU09 Neon Green</colorName>
+      <RGB8>
+        <red>3</red>
+        <green>254</green>
+        <blue>57</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU10 Emerald</colorName>
+      <RGB8>
+        <red>1</red>
+        <green>189</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>128</red>
+        <green>63</green>
+        <blue>254</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>CU11 Cyan</colorName>
+      <RGB8>
+        <red>34</red>
+        <green>251</green>
+        <blue>246</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU12 Steel Blue</colorName>
+      <RGB8>
+        <red>48</red>
+        <green>97</green>
+        <blue>134</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU13 Azure</colorName>
+      <RGB8>
+        <red>37</red>
+        <green>146</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU14 Navy</colorName>
+      <RGB8>
+        <red>2</red>
+        <green>22</green>
+        <blue>94</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU15 Ultramarine</colorName>
+      <RGB8>
+        <red>24</red>
+        <green>16</green>
+        <blue>208</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU16 Violet</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>63</green>
+        <blue>254</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU17 Plum</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>5</green>
+        <blue>147</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU18 Dusty Purple</colorName>
+      <RGB8>
+        <red>173</red>
+        <green>108</green>
+        <blue>173</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU19 Magenta</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>17</green>
+        <blue>252</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>CU20 Bubblegum</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>154</green>
+        <blue>253</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+</colorBook>

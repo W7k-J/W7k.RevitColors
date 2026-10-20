@@ -1,0 +1,258 @@
+{
+  "bookName": "W7k.Colors.Pastels",
+  "prefix": "PM",
+  "description": "30 pastel colors, maximally separated within pastel bounds (OKLab L 0.79-0.93, chroma <= 0.11).",
+  "pages": [
+    {
+      "title": "Warm"
+    },
+    {
+      "title": "Green / Teal"
+    },
+    {
+      "title": "Blue / Violet / Pink"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Coral Rose",
+      "rgb": [
+        254,
+        162,
+        167
+      ]
+    },
+    {
+      "name": "Blush",
+      "rgb": [
+        242,
+        198,
+        197
+      ]
+    },
+    {
+      "name": "Apricot",
+      "rgb": [
+        253,
+        183,
+        147
+      ]
+    },
+    {
+      "name": "Sand",
+      "rgb": [
+        211,
+        180,
+        155
+      ]
+    },
+    {
+      "name": "Peach Cream",
+      "rgb": [
+        255,
+        224,
+        196
+      ]
+    },
+    {
+      "name": "Honey",
+      "rgb": [
+        227,
+        177,
+        102
+      ]
+    },
+    {
+      "name": "Marigold",
+      "rgb": [
+        249,
+        203,
+        124
+      ]
+    },
+    {
+      "name": "Butter",
+      "rgb": [
+        252,
+        230,
+        143
+      ]
+    },
+    {
+      "name": "Olive",
+      "rgb": [
+        193,
+        192,
+        105
+      ]
+    },
+    {
+      "name": "Pear",
+      "rgb": [
+        212,
+        218,
+        132
+      ]
+    },
+    {
+      "name": "Sage",
+      "rgb": [
+        196,
+        219,
+        186
+      ]
+    },
+    {
+      "name": "Lime Mist",
+      "rgb": [
+        197,
+        248,
+        174
+      ]
+    },
+    {
+      "name": "Lichen",
+      "rgb": [
+        170,
+        195,
+        165
+      ]
+    },
+    {
+      "name": "Spring Green",
+      "rgb": [
+        166,
+        230,
+        165
+      ]
+    },
+    {
+      "name": "Jade",
+      "rgb": [
+        135,
+        212,
+        156
+      ]
+    },
+    {
+      "name": "Mint Cream",
+      "rgb": [
+        203,
+        241,
+        219
+      ]
+    },
+    {
+      "name": "Seafoam",
+      "rgb": [
+        147,
+        249,
+        211
+      ]
+    },
+    {
+      "name": "Aqua",
+      "rgb": [
+        111,
+        229,
+        214
+      ]
+    },
+    {
+      "name": "Teal",
+      "rgb": [
+        117,
+        204,
+        200
+      ]
+    },
+    {
+      "name": "Ice Cyan",
+      "rgb": [
+        126,
+        248,
+        254
+      ]
+    },
+    {
+      "name": "Sky",
+      "rgb": [
+        105,
+        219,
+        247
+      ]
+    },
+    {
+      "name": "Powder Blue",
+      "rgb": [
+        167,
+        209,
+        225
+      ]
+    },
+    {
+      "name": "Baby Blue",
+      "rgb": [
+        186,
+        227,
+        252
+      ]
+    },
+    {
+      "name": "Cornflower",
+      "rgb": [
+        128,
+        193,
+        254
+      ]
+    },
+    {
+      "name": "Slate Blue",
+      "rgb": [
+        177,
+        184,
+        219
+      ]
+    },
+    {
+      "name": "Periwinkle",
+      "rgb": [
+        206,
+        199,
+        243
+      ]
+    },
+    {
+      "name": "Lavender",
+      "rgb": [
+        197,
+        170,
+        247
+      ]
+    },
+    {
+      "name": "Lilac Mist",
+      "rgb": [
+        244,
+        221,
+        253
+      ]
+    },
+    {
+      "name": "Orchid",
+      "rgb": [
+        252,
+        178,
+        233
+      ]
+    },
+    {
+      "name": "Mauve",
+      "rgb": [
+        220,
+        168,
+        202
+      ]
+    }
+  ]
+}

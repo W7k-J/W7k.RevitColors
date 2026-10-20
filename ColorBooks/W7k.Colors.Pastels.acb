@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>W7k.Colors.Pastels</bookName>
+  <majorVersion>1</majorVersion>
+  <minorVersion>0</minorVersion>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>227</red>
+        <green>177</green>
+        <blue>102</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>PM01 Coral Rose</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>162</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM02 Blush</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>198</green>
+        <blue>197</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM03 Apricot</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>183</green>
+        <blue>147</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM04 Sand</colorName>
+      <RGB8>
+        <red>211</red>
+        <green>180</green>
+        <blue>155</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM05 Peach Cream</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>224</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM06 Honey</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>177</green>
+        <blue>102</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM07 Marigold</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>203</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM08 Butter</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>230</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM09 Olive</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>192</green>
+        <blue>105</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM10 Pear</colorName>
+      <RGB8>
+        <red>212</red>
+        <green>218</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>203</red>
+        <green>241</green>
+        <blue>219</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>PM11 Sage</colorName>
+      <RGB8>
+        <red>196</red>
+        <green>219</green>
+        <blue>186</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM12 Lime Mist</colorName>
+      <RGB8>
+        <red>197</red>
+        <green>248</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM13 Lichen</colorName>
+      <RGB8>
+        <red>170</red>
+        <green>195</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM14 Spring Green</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>230</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM15 Jade</colorName>
+      <RGB8>
+        <red>135</red>
+        <green>212</green>
+        <blue>156</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM16 Mint Cream</colorName>
+      <RGB8>
+        <red>203</red>
+        <green>241</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM17 Seafoam</colorName>
+      <RGB8>
+        <red>147</red>
+        <green>249</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM18 Aqua</colorName>
+      <RGB8>
+        <red>111</red>
+        <green>229</green>
+        <blue>214</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM19 Teal</colorName>
+      <RGB8>
+        <red>117</red>
+        <green>204</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM20 Ice Cyan</colorName>
+      <RGB8>
+        <red>126</red>
+        <green>248</green>
+        <blue>254</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>206</red>
+        <green>199</green>
+        <blue>243</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>PM21 Sky</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>219</green>
+        <blue>247</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM22 Powder Blue</colorName>
+      <RGB8>
+        <red>167</red>
+        <green>209</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM23 Baby Blue</colorName>
+      <RGB8>
+        <red>186</red>
+        <green>227</green>
+        <blue>252</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM24 Cornflower</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>193</green>
+        <blue>254</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM25 Slate Blue</colorName>
+      <RGB8>
+        <red>177</red>
+        <green>184</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM26 Periwinkle</colorName>
+      <RGB8>
+        <red>206</red>
+        <green>199</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM27 Lavender</colorName>
+      <RGB8>
+        <red>197</red>
+        <green>170</green>
+        <blue>247</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM28 Lilac Mist</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>221</green>
+        <blue>253</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM29 Orchid</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>178</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>PM30 Mauve</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>168</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+</colorBook>
