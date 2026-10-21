@@ -1,6 +1,7 @@
 """
 Builds Autodesk Color Book (.acb) files and preview PNGs from the palette
-definitions in ../palettes/*.json.
+definitions in ../palettes/*.json, and preview PNGs for the ready-made
+color books in ../ColorBooks/Contributed/*.acb (those .acb files are not rebuilt).
 
 Usage:  python tools/build_colorbooks.py
 Needs:  Python 3.8+, Pillow for previews (pip install pillow)
@@ -9,6 +10,7 @@ Format reference: Revit API Developer's Guide > Advanced Topics > Autodesk Color
 Revit shows max 10 colors per page and requires unique color names.
 """
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -92,6 +94,60 @@ def build_preview(pal, path):
     im.save(path)
 
 
+def read_acb(path):
+    """Return (bookName, [(colorName, rgb)]) from an existing .acb file."""
+    root = ET.parse(path).getroot()
+    cols = [(e.findtext("colorName"),
+             tuple(int(e.findtext(f"RGB8/{k}")) for k in ("red", "green", "blue")))
+            for e in root.iter("colorEntry")]
+    return root.findtext("bookName"), cols
+
+
+def _fit(d, text, font, width):
+    """Wrap text into at most 2 lines no wider than width, ellipsis if cut."""
+    lines, cur = [], ""
+    for word in text.split():
+        trial = f"{cur} {word}".strip()
+        if d.textlength(trial, font=font) <= width or not cur:
+            cur = trial
+        else:
+            lines.append(cur)
+            cur = word
+    lines.append(cur)
+    if len(lines) > 2:
+        lines = lines[:2]
+        lines[1] += "…"
+    while d.textlength(lines[-1], font=font) > width and len(lines[-1]) > 2:
+        lines[-1] = lines[-1][:-2] + "…"
+    return lines
+
+
+def build_acb_preview(acb, path):
+    """Compact swatch grid for a contributed .acb (any size)."""
+    try:
+        from PIL import Image, ImageDraw
+    except ImportError:
+        print("  (Pillow not installed - skipping preview)")
+        return
+    book, cols = read_acb(acb)
+    per_row = 10 if len(cols) <= 150 else 15
+    cell_w = 1420 // per_row
+    cell_h = 145 if per_row == 10 else 120
+    rows = (len(cols) + per_row - 1) // per_row
+    im = Image.new("RGB", (1500, 90 + rows * cell_h), "white")
+    d = ImageDraw.Draw(im)
+    fb, f = _font(26, True), _font(13 if per_row == 10 else 11)
+    d.text((40, 25), f"{book}  -  {len(cols)} colors", fill="black", font=fb)
+    sw = 70 if per_row == 10 else 56
+    for i, (name, c) in enumerate(cols):
+        x0, y = 40 + (i % per_row) * cell_w, 80 + (i // per_row) * cell_h
+        d.rectangle([x0, y, x0 + cell_w - 12, y + sw], fill=c, outline=(200, 200, 200))
+        for j, line in enumerate(_fit(d, name, f, cell_w - 12)):
+            d.text((x0, y + sw + 6 + j * 16), line, fill="black", font=f)
+        d.text((x0, y + sw + 38), "{},{},{}".format(*c), fill=(110, 110, 110), font=f)
+    im.save(path)
+
+
 def main():
     for src in sorted((ROOT / "palettes").glob("*.json")):
         pal = json.loads(src.read_text(encoding="utf-8"))
@@ -102,6 +158,11 @@ def main():
         build_acb(pal, acb)
         build_preview(pal, png)
         print(f"Built {acb.relative_to(ROOT)} ({len(pal['colors'])} colors)")
+    for acb in sorted((ROOT / "ColorBooks" / "Contributed").glob("*.acb")):
+        png = ROOT / "previews" / "Contributed" / f"{acb.stem}.png"
+        png.parent.mkdir(exist_ok=True)
+        build_acb_preview(acb, png)
+        print(f"Preview {png.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

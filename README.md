@@ -8,6 +8,21 @@ Custom **Autodesk Color Books** (`.acb`) for Revit. Use them to mark things on d
 | **W7k.Colors.ContrastingButUgly** | 20 (2 pages) | When categories must never be confused: clashes, QA checks, temporary markups. |
 | **W7k.Colors.OkabeIto** | 8 (1 page) | Color-blind safe marking: drawings and legends that colleagues or clients with color vision deficiency must read. |
 
+### Contributed color books
+
+Ready-made color books shared by **Michael Wolff** in a [discussion on the Autodesk Community forum](https://forums.autodesk.com/t5/revit-architecture-forum/how-many-people-on-your-project-can-t-read-your-colour-coded/td-p/14319992). Thank you, Michael!
+
+| Color book | File | Colors |
+|---|---|---|
+| **Copic RGB Approximations** | `Copic_358_plus_24_RGB_Approximations.acb` | 382 |
+| **Copic HEX-RGB Approximations** | `Copic_358_plus_24_HEX-RGB_Approximations.acb` | 382 (same colors, HEX code in the name) |
+| **Les Couleurs Le Corbusier** | `Les_Couleurs_Le_Corbusier_French_Code.acb` | 63 |
+| **Les Couleurs Le Corbusier - RGB HEX** | `Les_Couleurs_Le_Corbusier_French_Code_RGB_HEX.acb` | 63 (same colors, HEX code in the name) |
+| **Named Web Colors (CSS)** | `Named_Web_Colors.acb` | 148 |
+| **RAL Classic Wikipedia** | `RAL_Classic_Wikipedia.acb` | 217 |
+
+These are on-screen RGB approximations of physical color systems (Copic markers, Le Corbusier's Polychromie architecturale, RAL Classic). Use them to get close to a reference color, not as an exact match for paint or print. The names belong to their respective owners.
+
 ## Preview
 
 ### W7k.Colors.Pastels
@@ -19,6 +34,34 @@ Custom **Autodesk Color Books** (`.acb`) for Revit. Use them to mark things on d
 ### W7k.Colors.OkabeIto
 ![W7k.Colors.OkabeIto](previews/W7k.Colors.OkabeIto.png)
 
+### Contributed (by Michael Wolff)
+
+The HEX variants contain the same colors as the books below, with the HEX code added to each name.
+
+#### Les Couleurs Le Corbusier
+![Les Couleurs Le Corbusier](previews/Contributed/Les_Couleurs_Le_Corbusier_French_Code.png)
+
+#### RAL Classic Wikipedia
+<details>
+<summary>Show preview (217 colors)</summary>
+
+![RAL Classic Wikipedia](previews/Contributed/RAL_Classic_Wikipedia.png)
+</details>
+
+#### Named Web Colors (CSS)
+<details>
+<summary>Show preview (148 colors)</summary>
+
+![Named Web Colors](previews/Contributed/Named_Web_Colors.png)
+</details>
+
+#### Copic RGB Approximations
+<details>
+<summary>Show preview (382 colors)</summary>
+
+![Copic RGB Approximations](previews/Contributed/Copic_358_plus_24_RGB_Approximations.png)
+</details>
+
 ## Installation
 
 ### Option A: Script (recommended)
@@ -27,10 +70,15 @@ Custom **Autodesk Color Books** (`.acb`) for Revit. Use them to mark things on d
 2. Open PowerShell in the repository folder and run:
 
    ```powershell
-   .\install.ps1              # installs into every Revit version found
-   .\install.ps1 -Year 2024   # only Revit 2024
-   .\install.ps1 -Uninstall   # removes the W7k color books again
+   .\install.ps1                      # pick the color books from a list, every Revit version found
+   .\install.ps1 -All                 # install every color book, no questions
+   .\install.ps1 -Books W7k.*         # only the W7k color books
+   .\install.ps1 -Books RAL*,Named*   # pick by file name (wildcards allowed)
+   .\install.ps1 -Year 2024           # only Revit 2024
+   .\install.ps1 -Uninstall           # pick the color books to remove
    ```
+
+   Without `-All` or `-Books`, the script shows a numbered list. Type numbers or ranges (`1,3,5-7`), `all`, or press Enter for the three W7k books.
 
    If you get an access error, run PowerShell **as Administrator**.
 
@@ -44,7 +92,7 @@ Custom **Autodesk Color Books** (`.acb`) for Revit. Use them to mark things on d
 
 ### Option B: Manual
 
-Copy the files from `ColorBooks\` into:
+Copy the `.acb` files you want from `ColorBooks\` (and `ColorBooks\Contributed\`) into:
 
 ```
 C:\ProgramData\Autodesk\RVT <year>\ColorBooks\
@@ -56,7 +104,7 @@ For example `C:\ProgramData\Autodesk\RVT 2024\ColorBooks\`. Then restart Revit.
 
 1. Open any Revit color picker, for example a filled region's foreground color or a view filter override.
 2. Click **Color Books...**.
-3. Pick **W7k.Colors.Pastels**, **W7k.Colors.ContrastingButUgly** or **W7k.Colors.OkabeIto** from the dropdown.
+3. Pick **W7k.Colors.Pastels**, **W7k.Colors.ContrastingButUgly**, **W7k.Colors.OkabeIto** or any other installed book from the dropdown.
 4. Browse the pages with the slider. You can also type a color name to jump to it.
 
 Every color has a code (`PM01`–`PM30`, `CU01`–`CU20`, `OI01`–`OI08`). Reference the codes in your office standards and legends instead of RGB values.
@@ -81,9 +129,11 @@ Both sets were generated in the perceptual **OKLab** color space by maximizing t
 
 ```
 W7k.RevitColors/
-├── ColorBooks/            # .acb files to install (generated)
-├── palettes/              # source of truth: one JSON per color book
+├── ColorBooks/            # .acb files to install (W7k books generated)
+│   └── Contributed/       # ready-made .acb files from contributors
+├── palettes/              # source of truth: one JSON per W7k color book
 ├── previews/              # swatch sheets (generated)
+│   └── Contributed/
 ├── tools/
 │   └── build_colorbooks.py
 ├── install.ps1
@@ -112,7 +162,15 @@ W7k.RevitColors/
 
 3. Re-run `install.ps1`.
 
+To add a ready-made `.acb` instead, drop it into `ColorBooks/Contributed/` and run the build script to create its preview.
+
 Rules from the Revit color book format: color names must be unique within a book, Revit shows at most 10 colors per page (the build script paginates automatically), and spaces in file names must be real spaces.
+
+## Credits
+
+- **W7k color books:** Julian Wandzilak (W7k).
+- **Contributed color books** (Copic, Le Corbusier, Named Web Colors, RAL Classic): **Michael Wolff**, shared in an [Autodesk Community forum discussion](https://forums.autodesk.com/t5/revit-architecture-forum/how-many-people-on-your-project-can-t-read-your-colour-coded/td-p/14319992).
+- **Okabe-Ito palette:** Masataka Okabe & Kei Ito.
 
 ## Reference
 

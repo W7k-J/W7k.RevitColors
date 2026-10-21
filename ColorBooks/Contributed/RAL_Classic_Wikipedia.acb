@@ -1,0 +1,1940 @@
+<?xml version='1.0' encoding='utf-8'?>
+<colorBook>
+  <bookName>RAL Classic Wikipedia</bookName>
+  <majorVersion>1</majorVersion>
+  <minorVersion>0</minorVersion>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>205</red>
+        <green>186</green>
+        <blue>136</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 1000 Green beige</colorName>
+      <RGB8>
+        <red>205</red>
+        <green>186</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1001 Beige</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>176</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1002 Sand yellow</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>170</green>
+        <blue>109</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1003 Signal yellow</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>168</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1004 Golden yellow</colorName>
+      <RGB8>
+        <red>228</red>
+        <green>158</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1005 Honey yellow</colorName>
+      <RGB8>
+        <red>203</red>
+        <green>142</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1006 Maize yellow</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>144</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1007 Daffodil yellow</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>140</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1011 Brown beige</colorName>
+      <RGB8>
+        <red>175</red>
+        <green>128</green>
+        <blue>79</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1012 Lemon yellow</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>175</green>
+        <blue>39</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>227</red>
+        <green>217</green>
+        <blue>198</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 1013 Oyster white</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>217</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1014 Ivory</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>196</green>
+        <blue>154</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1015 Light ivory</colorName>
+      <RGB8>
+        <red>230</red>
+        <green>210</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1016 Sulfur yellow</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>221</green>
+        <blue>56</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1017 Saffron yellow</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>169</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1018 Zinc yellow</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>202</green>
+        <blue>48</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1019 Grey beige</colorName>
+      <RGB8>
+        <red>164</red>
+        <green>143</green>
+        <blue>122</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1020 Olive yellow</colorName>
+      <RGB8>
+        <red>160</red>
+        <green>143</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1021 Colza yellow</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>182</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1023 Traffic yellow</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>181</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>186</red>
+        <green>143</green>
+        <blue>76</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 1024 Ochre yellow</colorName>
+      <RGB8>
+        <red>186</red>
+        <green>143</green>
+        <blue>76</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1026 Luminous yellow</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1027 Curry</colorName>
+      <RGB8>
+        <red>167</red>
+        <green>127</green>
+        <blue>14</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1028 Melon yellow</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>155</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1032 Broom yellow</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>163</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1033 Dahlia yellow</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>154</green>
+        <blue>28</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1034 Pastel yellow</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>156</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1035 Pearl beige</colorName>
+      <RGB8>
+        <red>144</red>
+        <green>131</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1036 Pearl gold</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>100</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 1037 Sun yellow</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>146</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>221</red>
+        <green>121</green>
+        <blue>7</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 2000 Yellow orange</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>121</green>
+        <blue>7</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2001 Red orange</colorName>
+      <RGB8>
+        <red>190</red>
+        <green>78</green>
+        <blue>32</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2002 Blood orange</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>57</green>
+        <blue>39</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2003 Pastel orange</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>132</green>
+        <blue>43</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2004 Pure orange</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>91</green>
+        <blue>18</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2005 Luminous orange</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>35</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2007 Luminous bright orange</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>164</green>
+        <blue>33</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2008 Bright red orange</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>117</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2009 Traffic orange</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>85</green>
+        <blue>1</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2010 Signal orange</colorName>
+      <RGB8>
+        <red>212</red>
+        <green>101</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>236</red>
+        <green>124</green>
+        <blue>37</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 2011 Deep orange</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>124</green>
+        <blue>37</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2012 Salmon orange</colorName>
+      <RGB8>
+        <red>219</red>
+        <green>106</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2013 Pearl orange</colorName>
+      <RGB8>
+        <red>149</red>
+        <green>69</green>
+        <blue>39</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 2017 RAL orange</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>68</green>
+        <blue>2</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3000 Flame red</colorName>
+      <RGB8>
+        <red>171</red>
+        <green>37</green>
+        <blue>36</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3001 Signal red</colorName>
+      <RGB8>
+        <red>160</red>
+        <green>33</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3002 Carmine red</colorName>
+      <RGB8>
+        <red>161</red>
+        <green>35</green>
+        <blue>43</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3003 Ruby red</colorName>
+      <RGB8>
+        <red>141</red>
+        <green>29</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3004 Purple red</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>31</green>
+        <blue>41</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3005 Wine red</colorName>
+      <RGB8>
+        <red>94</red>
+        <green>32</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>64</red>
+        <green>34</green>
+        <blue>37</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 3007 Black red</colorName>
+      <RGB8>
+        <red>64</red>
+        <green>34</green>
+        <blue>37</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3009 Oxide red</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>55</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3011 Brown red</colorName>
+      <RGB8>
+        <red>126</red>
+        <green>41</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3012 Beige red</colorName>
+      <RGB8>
+        <red>203</red>
+        <green>141</green>
+        <blue>115</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3013 Tomato red</colorName>
+      <RGB8>
+        <red>156</red>
+        <green>50</green>
+        <blue>46</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3014 Antique pink</colorName>
+      <RGB8>
+        <red>212</red>
+        <green>116</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3015 Light pink</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>166</green>
+        <blue>173</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3016 Coral red</colorName>
+      <RGB8>
+        <red>172</red>
+        <green>64</green>
+        <blue>52</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3017 Rose</colorName>
+      <RGB8>
+        <red>211</red>
+        <green>84</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3018 Strawberry red</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>65</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>193</red>
+        <green>18</green>
+        <blue>28</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 3020 Traffic red</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>18</green>
+        <blue>28</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3022 Salmon pink</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>109</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3024 Luminous red</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>0</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3026 Luminous bright red</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3027 Raspberry red</colorName>
+      <RGB8>
+        <red>180</red>
+        <green>32</green>
+        <blue>65</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3028 Pure red</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>37</green>
+        <blue>18</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3031 Orient red</colorName>
+      <RGB8>
+        <red>172</red>
+        <green>50</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3032 Pearl ruby red</colorName>
+      <RGB8>
+        <red>113</red>
+        <green>21</green>
+        <blue>33</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 3033 Pearl pink</colorName>
+      <RGB8>
+        <red>178</red>
+        <green>76</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4001 Red lilac</colorName>
+      <RGB8>
+        <red>138</red>
+        <green>90</green>
+        <blue>131</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>147</red>
+        <green>61</green>
+        <blue>80</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 4002 Red violet</colorName>
+      <RGB8>
+        <red>147</red>
+        <green>61</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4003 Heather violet</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>91</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4004 Claret violet</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>22</green>
+        <blue>57</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4005 Blue lilac</colorName>
+      <RGB8>
+        <red>131</red>
+        <green>99</green>
+        <blue>157</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4006 Traffic purple</colorName>
+      <RGB8>
+        <red>153</red>
+        <green>37</green>
+        <blue>114</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4007 Purple violet</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>32</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4008 Signal violet</colorName>
+      <RGB8>
+        <red>144</red>
+        <green>70</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4009 Pastel violet</colorName>
+      <RGB8>
+        <red>163</red>
+        <green>137</green>
+        <blue>149</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4010 Telemagenta</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>54</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 4011 Pearl violet</colorName>
+      <RGB8>
+        <red>135</red>
+        <green>115</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>107</red>
+        <green>104</green>
+        <blue>128</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 4012 Pearl blackberry</colorName>
+      <RGB8>
+        <red>107</red>
+        <green>104</green>
+        <blue>128</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5000 Violet blue</colorName>
+      <RGB8>
+        <red>56</red>
+        <green>76</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5001 Green blue</colorName>
+      <RGB8>
+        <red>31</red>
+        <green>71</green>
+        <blue>100</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5002 Ultramarine blue</colorName>
+      <RGB8>
+        <red>43</red>
+        <green>44</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5003 Sapphire blue</colorName>
+      <RGB8>
+        <red>42</red>
+        <green>55</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5004 Black blue</colorName>
+      <RGB8>
+        <red>29</red>
+        <green>31</green>
+        <blue>42</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5005 Signal blue</colorName>
+      <RGB8>
+        <red>21</red>
+        <green>72</green>
+        <blue>137</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5007 Brilliant blue</colorName>
+      <RGB8>
+        <red>65</red>
+        <green>103</green>
+        <blue>141</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5008 Grey blue</colorName>
+      <RGB8>
+        <red>49</red>
+        <green>60</green>
+        <blue>72</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5009 Azure blue</colorName>
+      <RGB8>
+        <red>46</red>
+        <green>89</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>19</red>
+        <green>68</green>
+        <blue>124</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 5010 Gentian blue</colorName>
+      <RGB8>
+        <red>19</red>
+        <green>68</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5011 Steel blue</colorName>
+      <RGB8>
+        <red>35</red>
+        <green>44</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5012 Light blue</colorName>
+      <RGB8>
+        <red>52</red>
+        <green>129</green>
+        <blue>184</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5013 Cobalt blue</colorName>
+      <RGB8>
+        <red>35</red>
+        <green>45</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5014 Pigeon blue</colorName>
+      <RGB8>
+        <red>108</red>
+        <green>124</green>
+        <blue>152</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5015 Sky blue</colorName>
+      <RGB8>
+        <red>40</red>
+        <green>116</green>
+        <blue>178</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5017 Traffic blue</colorName>
+      <RGB8>
+        <red>14</red>
+        <green>81</green>
+        <blue>141</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5018 Turquoise blue</colorName>
+      <RGB8>
+        <red>33</red>
+        <green>136</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5019 Capri blue</colorName>
+      <RGB8>
+        <red>26</red>
+        <green>87</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5020 Ocean blue</colorName>
+      <RGB8>
+        <red>11</red>
+        <green>65</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>7</red>
+        <green>115</green>
+        <blue>122</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 5021 Water blue</colorName>
+      <RGB8>
+        <red>7</red>
+        <green>115</green>
+        <blue>122</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5022 Night blue</colorName>
+      <RGB8>
+        <red>47</red>
+        <green>42</green>
+        <blue>90</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5023 Distant blue</colorName>
+      <RGB8>
+        <red>77</red>
+        <green>102</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5024 Pastel blue</colorName>
+      <RGB8>
+        <red>106</red>
+        <green>147</green>
+        <blue>176</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5025 Pearl gentian</colorName>
+      <RGB8>
+        <red>41</red>
+        <green>100</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 5026 Pearl night blue</colorName>
+      <RGB8>
+        <red>16</red>
+        <green>44</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6000 Patina green</colorName>
+      <RGB8>
+        <red>50</red>
+        <green>118</green>
+        <blue>98</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6001 Emerald green</colorName>
+      <RGB8>
+        <red>40</red>
+        <green>113</green>
+        <blue>62</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6002 Leaf green</colorName>
+      <RGB8>
+        <red>39</red>
+        <green>98</green>
+        <blue>53</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6003 Olive green</colorName>
+      <RGB8>
+        <red>75</red>
+        <green>87</green>
+        <blue>62</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>14</red>
+        <green>66</green>
+        <blue>67</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 6004 Blue green</colorName>
+      <RGB8>
+        <red>14</red>
+        <green>66</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6005 Moss green</colorName>
+      <RGB8>
+        <red>15</red>
+        <green>67</green>
+        <blue>54</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6006 Grey olive</colorName>
+      <RGB8>
+        <red>64</red>
+        <green>67</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6007 Bottle green</colorName>
+      <RGB8>
+        <red>40</red>
+        <green>52</green>
+        <blue>36</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6008 Brown green</colorName>
+      <RGB8>
+        <red>53</red>
+        <green>56</green>
+        <blue>46</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6009 Fir green</colorName>
+      <RGB8>
+        <red>38</red>
+        <green>57</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6010 Grass green</colorName>
+      <RGB8>
+        <red>62</red>
+        <green>117</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6011 Reseda green</colorName>
+      <RGB8>
+        <red>104</red>
+        <green>130</green>
+        <blue>91</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6012 Black green</colorName>
+      <RGB8>
+        <red>49</red>
+        <green>64</green>
+        <blue>61</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6013 Reed green</colorName>
+      <RGB8>
+        <red>121</red>
+        <green>124</green>
+        <blue>90</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>68</red>
+        <green>67</green>
+        <blue>55</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 6014 Yellow olive</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>67</green>
+        <blue>55</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6015 Black olive</colorName>
+      <RGB8>
+        <red>61</red>
+        <green>64</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6016 Turquoise green</colorName>
+      <RGB8>
+        <red>2</red>
+        <green>106</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6017 May green</colorName>
+      <RGB8>
+        <red>70</red>
+        <green>134</green>
+        <blue>65</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6018 Yellow green</colorName>
+      <RGB8>
+        <red>72</red>
+        <green>164</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6019 Pastel green</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>217</green>
+        <blue>177</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6020 Chromium green</colorName>
+      <RGB8>
+        <red>53</red>
+        <green>71</green>
+        <blue>51</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6021 Pale green</colorName>
+      <RGB8>
+        <red>134</red>
+        <green>164</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6022 Brown olive</colorName>
+      <RGB8>
+        <red>62</red>
+        <green>60</green>
+        <blue>50</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6024 Traffic green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>135</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>83</red>
+        <green>117</green>
+        <blue>60</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 6025 Fern green</colorName>
+      <RGB8>
+        <red>83</red>
+        <green>117</green>
+        <blue>60</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6026 Opal green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>93</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6027 Light green</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>192</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6028 Pine green</colorName>
+      <RGB8>
+        <red>45</red>
+        <green>85</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6029 Mint green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>114</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6031 Bronze green</colorName>
+      <RGB8>
+        <red>73</red>
+        <green>87</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6032 Signal green</colorName>
+      <RGB8>
+        <red>15</red>
+        <green>133</green>
+        <blue>88</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6033 Mint turquoise</colorName>
+      <RGB8>
+        <red>71</red>
+        <green>138</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6034 Pastel turquoise</colorName>
+      <RGB8>
+        <red>127</red>
+        <green>176</green>
+        <blue>178</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6035 Pearl green</colorName>
+      <RGB8>
+        <red>27</red>
+        <green>84</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>0</red>
+        <green>93</green>
+        <blue>76</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 6036 Pearl opal green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>93</green>
+        <blue>76</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6037 Pure green</colorName>
+      <RGB8>
+        <red>37</red>
+        <green>231</green>
+        <blue>18</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6038 Luminous green</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>247</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 6039 Fibrous green</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>196</green>
+        <blue>62</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7000 Squirrel grey</colorName>
+      <RGB8>
+        <red>126</red>
+        <green>139</green>
+        <blue>146</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7001 Silver grey</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>153</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7002 Olive grey</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>127</green>
+        <blue>104</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7003 Moss grey</colorName>
+      <RGB8>
+        <red>122</red>
+        <green>123</green>
+        <blue>109</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7004 Signal grey</colorName>
+      <RGB8>
+        <red>158</red>
+        <green>160</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7005 Mouse grey</colorName>
+      <RGB8>
+        <red>107</red>
+        <green>113</green>
+        <blue>111</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>117</red>
+        <green>111</green>
+        <blue>97</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 7006 Beige grey</colorName>
+      <RGB8>
+        <red>117</red>
+        <green>111</green>
+        <blue>97</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7008 Khaki grey</colorName>
+      <RGB8>
+        <red>116</red>
+        <green>102</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7009 Green grey</colorName>
+      <RGB8>
+        <red>91</red>
+        <green>98</green>
+        <blue>89</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7010 Tarpaulin grey</colorName>
+      <RGB8>
+        <red>87</red>
+        <green>93</green>
+        <blue>87</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7011 Iron grey</colorName>
+      <RGB8>
+        <red>85</red>
+        <green>93</green>
+        <blue>97</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7012 Basalt grey</colorName>
+      <RGB8>
+        <red>89</red>
+        <green>97</green>
+        <blue>99</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7013 Brown grey</colorName>
+      <RGB8>
+        <red>85</red>
+        <green>85</green>
+        <blue>72</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7015 Slate grey</colorName>
+      <RGB8>
+        <red>81</red>
+        <green>86</green>
+        <blue>92</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7016 Anthracite grey</colorName>
+      <RGB8>
+        <red>55</red>
+        <green>63</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7021 Black grey</colorName>
+      <RGB8>
+        <red>46</red>
+        <green>50</green>
+        <blue>52</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>75</red>
+        <green>77</green>
+        <blue>70</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 7022 Umbra grey</colorName>
+      <RGB8>
+        <red>75</red>
+        <green>77</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7023 Concrete grey</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>132</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7024 Graphite grey</colorName>
+      <RGB8>
+        <red>71</red>
+        <green>74</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7026 Granite grey</colorName>
+      <RGB8>
+        <red>55</red>
+        <green>68</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7030 Stone grey</colorName>
+      <RGB8>
+        <red>147</red>
+        <green>147</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7031 Blue grey</colorName>
+      <RGB8>
+        <red>93</red>
+        <green>105</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7032 Pebble grey</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>185</green>
+        <blue>168</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7033 Cement grey</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>137</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7034 Yellow grey</colorName>
+      <RGB8>
+        <red>147</red>
+        <green>145</green>
+        <blue>118</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7035 Light grey</colorName>
+      <RGB8>
+        <red>203</red>
+        <green>208</green>
+        <blue>204</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>154</red>
+        <green>150</green>
+        <blue>151</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 7036 Platinum grey</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>150</green>
+        <blue>151</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7037 Dusty grey</colorName>
+      <RGB8>
+        <red>124</red>
+        <green>127</green>
+        <blue>126</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7038 Agate grey</colorName>
+      <RGB8>
+        <red>180</red>
+        <green>184</green>
+        <blue>176</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7039 Quartz grey</colorName>
+      <RGB8>
+        <red>107</red>
+        <green>105</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7040 Window grey</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>163</green>
+        <blue>166</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7042 Traffic grey A</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>150</green>
+        <blue>149</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7043 Traffic grey B</colorName>
+      <RGB8>
+        <red>78</red>
+        <green>84</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7044 Silk grey</colorName>
+      <RGB8>
+        <red>189</red>
+        <green>189</green>
+        <blue>178</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7045 Telegrey 1</colorName>
+      <RGB8>
+        <red>145</red>
+        <green>150</green>
+        <blue>154</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7046 Telegrey 2</colorName>
+      <RGB8>
+        <red>130</red>
+        <green>137</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>207</red>
+        <green>208</green>
+        <blue>207</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 7047 Telegrey 4</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>208</green>
+        <blue>207</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 7048 Pearl mouse grey</colorName>
+      <RGB8>
+        <red>136</red>
+        <green>129</green>
+        <blue>117</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8000 Green brown</colorName>
+      <RGB8>
+        <red>136</red>
+        <green>113</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8001 Ochre brown</colorName>
+      <RGB8>
+        <red>156</red>
+        <green>107</green>
+        <blue>48</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8002 Signal brown</colorName>
+      <RGB8>
+        <red>123</red>
+        <green>81</green>
+        <blue>65</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8003 Clay brown</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>84</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8004 Copper brown</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>78</green>
+        <blue>53</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8007 Fawn brown</colorName>
+      <RGB8>
+        <red>111</red>
+        <green>74</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8008 Olive brown</colorName>
+      <RGB8>
+        <red>111</red>
+        <green>79</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8011 Nut brown</colorName>
+      <RGB8>
+        <red>90</red>
+        <green>58</green>
+        <blue>41</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>103</red>
+        <green>56</green>
+        <blue>49</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 8012 Red brown</colorName>
+      <RGB8>
+        <red>103</red>
+        <green>56</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8014 Sepia brown</colorName>
+      <RGB8>
+        <red>73</red>
+        <green>57</green>
+        <blue>45</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8015 Chestnut brown</colorName>
+      <RGB8>
+        <red>99</red>
+        <green>58</green>
+        <blue>52</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8016 Mahogany brown</colorName>
+      <RGB8>
+        <red>76</red>
+        <green>47</green>
+        <blue>38</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8017 Chocolate brown</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>50</green>
+        <blue>45</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8019 Grey brown</colorName>
+      <RGB8>
+        <red>63</red>
+        <green>58</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8022 Black brown</colorName>
+      <RGB8>
+        <red>33</red>
+        <green>31</green>
+        <blue>32</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8023 Orange brown</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>94</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8024 Beige brown</colorName>
+      <RGB8>
+        <red>121</red>
+        <green>85</green>
+        <blue>60</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8025 Pale brown</colorName>
+      <RGB8>
+        <red>117</red>
+        <green>92</green>
+        <blue>73</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>78</red>
+        <green>59</green>
+        <blue>43</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 8028 Terra brown</colorName>
+      <RGB8>
+        <red>78</red>
+        <green>59</green>
+        <blue>43</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 8029 Pearl copper</colorName>
+      <RGB8>
+        <red>119</red>
+        <green>60</green>
+        <blue>39</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9001 Cream</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>235</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9002 Grey white</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>222</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9003 Signal white</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>248</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9004 Signal black</colorName>
+      <RGB8>
+        <red>46</red>
+        <green>48</green>
+        <blue>50</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9005 Jet black</colorName>
+      <RGB8>
+        <red>10</red>
+        <green>10</green>
+        <blue>13</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9006 White aluminium</colorName>
+      <RGB8>
+        <red>165</red>
+        <green>168</green>
+        <blue>166</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9007 Grey aluminium</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>143</green>
+        <blue>140</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9010 Pure white</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>249</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>28</red>
+        <green>28</green>
+        <blue>28</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>RAL 9011 Graphite black</colorName>
+      <RGB8>
+        <red>28</red>
+        <green>28</green>
+        <blue>28</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9012 Clean room white</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>253</green>
+        <blue>230</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9016 Traffic white</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>251</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9017 Traffic black</colorName>
+      <RGB8>
+        <red>42</red>
+        <green>45</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9018 Papyrus white</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>211</green>
+        <blue>205</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9022 Pearl light grey</colorName>
+      <RGB8>
+        <red>133</red>
+        <green>133</green>
+        <blue>131</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>RAL 9023 Pearl dark grey</colorName>
+      <RGB8>
+        <red>126</red>
+        <green>129</green>
+        <blue>130</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+</colorBook>

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Les Couleurs Le Corbusier - RGB HEX</bookName>
+  <majorVersion>1</majorVersion>
+  <minorVersion>0</minorVersion>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>77</red>
+        <green>112</green>
+        <blue>177</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>32001 blanc #FFF1D0</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>241</green>
+        <blue>208</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32010 gris foncé 31 #565C61</colorName>
+      <RGB8>
+        <red>86</red>
+        <green>92</green>
+        <blue>97</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32011 gris 31 #848688</colorName>
+      <RGB8>
+        <red>132</red>
+        <green>134</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32012 gris moyen #AFB1B4</colorName>
+      <RGB8>
+        <red>175</red>
+        <green>177</green>
+        <blue>180</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32013 gris clair 31 #C5C6C1</colorName>
+      <RGB8>
+        <red>197</red>
+        <green>198</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32020 bleu outremer 31 #4D70B1</colorName>
+      <RGB8>
+        <red>77</red>
+        <green>112</green>
+        <blue>177</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32021 outremer moyen #94BAD8</colorName>
+      <RGB8>
+        <red>148</red>
+        <green>186</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32022 outremer clair #B6CEDA</colorName>
+      <RGB8>
+        <red>182</red>
+        <green>206</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32023 outremer pâle #C0D2DA</colorName>
+      <RGB8>
+        <red>192</red>
+        <green>210</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32024 outremer gris #E3E9E2</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>233</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>33</red>
+        <green>117</green>
+        <blue>102</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>32030 bleu céruléen 31 #2F76A2</colorName>
+      <RGB8>
+        <red>47</red>
+        <green>118</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32031 céruléen vif #5499AF</colorName>
+      <RGB8>
+        <red>84</red>
+        <green>153</green>
+        <blue>175</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32032 céruléen moyen #7FBCC4</colorName>
+      <RGB8>
+        <red>127</red>
+        <green>188</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32033 céruléen clair #9AC4C4</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>196</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32034 céruléen pâle #C9DAD4</colorName>
+      <RGB8>
+        <red>201</red>
+        <green>218</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32040 vert anglais #217566</colorName>
+      <RGB8>
+        <red>33</red>
+        <green>117</green>
+        <blue>102</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32041 vert anglais clair #9ABFAE</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>191</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32042 vert anglais pâle #C6D7C2</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>215</green>
+        <blue>194</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32050 vert foncé #2F8152</colorName>
+      <RGB8>
+        <red>47</red>
+        <green>129</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32051 vert 31 #88BB6F</colorName>
+      <RGB8>
+        <red>136</red>
+        <green>187</green>
+        <blue>111</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>254</red>
+        <green>222</green>
+        <blue>199</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>32052 vert clair #A6D277</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>210</green>
+        <blue>119</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32053 vert jaune clair #D0E4A2</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>228</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32060 ocre #FFD9B4</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>217</green>
+        <blue>180</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32080 orange #F36C21</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>108</green>
+        <blue>33</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32081 orange clair #F7966E</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>150</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32082 orange pâle #FEDEC7</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>222</green>
+        <blue>199</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32090 rouge vermillon 31 #B50E25</colorName>
+      <RGB8>
+        <red>181</red>
+        <green>14</green>
+        <blue>37</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32091 rose pâle #FEDEC7</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>222</green>
+        <blue>199</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32100 rouge carmin #9A0F39</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>15</green>
+        <blue>57</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32101 rouge rubia #A9004A</colorName>
+      <RGB8>
+        <red>169</red>
+        <green>0</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>185</red>
+        <green>112</green>
+        <blue>98</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>32102 rose clair #ECB4A0</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>180</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32110 l’ocre rouge #9C492E</colorName>
+      <RGB8>
+        <red>156</red>
+        <green>73</green>
+        <blue>46</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32111 l’ocre rouge moyen #E0917F</colorName>
+      <RGB8>
+        <red>224</red>
+        <green>145</green>
+        <blue>127</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32112 l’ocre rouge clair #FCCFBC</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>207</green>
+        <blue>188</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32120 terre sienne brûlée 31 #6E3D37</colorName>
+      <RGB8>
+        <red>110</red>
+        <green>61</green>
+        <blue>55</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32121 terre sienne brique #B97062</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>112</green>
+        <blue>98</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32122 terre sienne claire 31 #EDB99F</colorName>
+      <RGB8>
+        <red>237</red>
+        <green>185</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32123 terre sienne pâle #FDD2B9</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>210</green>
+        <blue>185</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32130 terre d’ombre brûlée 31 #56372E</colorName>
+      <RGB8>
+        <red>86</red>
+        <green>55</green>
+        <blue>46</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32131 ombre brûlée claire #C4A597</colorName>
+      <RGB8>
+        <red>196</red>
+        <green>165</green>
+        <blue>151</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>235</red>
+        <green>147</green>
+        <blue>172</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>32140 ombre naturelle 31 #584E41</colorName>
+      <RGB8>
+        <red>88</red>
+        <green>78</green>
+        <blue>65</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32141 ombre naturelle moyenne #8A7F6F</colorName>
+      <RGB8>
+        <red>138</red>
+        <green>127</green>
+        <blue>111</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>32142 ombre naturelle claire #C1B09D</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>176</green>
+        <blue>157</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320A rouge vermillon 59 #BB3B17</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>59</green>
+        <blue>23</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320B blanc ivoire #FFFDED</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>253</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320C rose vif #EB93AC</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>147</green>
+        <blue>172</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320D terre sienne brûlée 59 #7C3B28</colorName>
+      <RGB8>
+        <red>124</red>
+        <green>59</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320E noir d’ivoire #001622</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>22</green>
+        <blue>34</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320F vert olive vif #ACB319</colorName>
+      <RGB8>
+        <red>172</red>
+        <green>179</green>
+        <blue>25</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320G vert 59 #52A282</colorName>
+      <RGB8>
+        <red>82</red>
+        <green>162</green>
+        <blue>130</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>130</red>
+        <green>190</green>
+        <blue>232</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>4320H gris 59 #6F7C84</colorName>
+      <RGB8>
+        <red>111</red>
+        <green>124</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320J terre d’ombre brûlée 59 #443A37</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>58</green>
+        <blue>55</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320K bleu outremer 59 #2D64B0</colorName>
+      <RGB8>
+        <red>45</red>
+        <green>100</green>
+        <blue>176</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320L ocre jaune clair #ECAD6F</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>173</green>
+        <blue>111</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320M le rubis #812B43</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>43</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320N bleu céruléen 59 #82BEE8</colorName>
+      <RGB8>
+        <red>130</red>
+        <green>190</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320O gris clair 59 #9BA2A7</colorName>
+      <RGB8>
+        <red>155</red>
+        <green>162</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320P terre sienne claire 59 #FED09E</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>208</green>
+        <blue>158</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320R ombre naturelle 59 #3F3936</colorName>
+      <RGB8>
+        <red>63</red>
+        <green>57</green>
+        <blue>54</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320S orange vif #F26431</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>100</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>80</red>
+        <green>91</green>
+        <blue>105</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>4320T bleu outremer foncé #003272</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>50</green>
+        <blue>114</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320U gris foncé 59 #505B69</colorName>
+      <RGB8>
+        <red>80</red>
+        <green>91</green>
+        <blue>105</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>4320W le jaune vif #FFC42C</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>196</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+</colorBook>
