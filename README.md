@@ -39,7 +39,11 @@ These are on-screen RGB approximations of physical color systems (Copic markers,
 The HEX variants contain the same colors as the books below, with the HEX code added to each name.
 
 #### Les Couleurs Le Corbusier
+<details>
+<summary>Show preview (63 colors)</summary>
+
 ![Les Couleurs Le Corbusier](previews/Contributed/Les_Couleurs_Le_Corbusier_French_Code.png)
+</details>
 
 #### RAL Classic Wikipedia
 <details>
